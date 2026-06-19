@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/silueta-que-se-desvanece/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Request Licensing for Silueta que se desvanece](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/silueta-que-se-desvanece/) |
+| **Get License** | [License this song: Silueta que se desvanece](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/silueta-que-se-desvanece/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Tu silueta en la sombra es mi única adicción
+> Perdidos en el humo, subiendo la tensión
+> You know I want you, baby, dame la razón
+> Bailando hasta que el alba nos robe la visión
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
